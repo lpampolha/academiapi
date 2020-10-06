@@ -6,6 +6,9 @@
   "scripts": {
     "api": "nodemon api.js"
   },
+  "engines": {
+    "node": "12.18.4"
+  },
   "keywords": [],
   "author": "Lucas Pampolha",
   "license": "ISC",
